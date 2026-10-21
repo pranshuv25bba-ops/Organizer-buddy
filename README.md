@@ -1,2 +1,5 @@
-# Organizer-buddy
-a tool which is useful to complete daily tasks and help to manage them accordingly 
+My Organizer 1.0
+
+Run: pip install -r requirements.txt; streamlit run app.py
+
+SQLite on Streamlit Community Cloud is temporary. Use sample data only.
